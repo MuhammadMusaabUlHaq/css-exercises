@@ -1,0 +1,9 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.container .text {
+    background-color: #ffff00;
+    color: #ff0000;
+    font-size: 22px;
+    text-align: center;
+}
